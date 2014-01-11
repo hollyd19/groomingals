@@ -1,0 +1,238 @@
+body{
+	font-family: 'Alegreya Sans', sans-serif;
+	background-image:url('../img/groom6.png');
+	background-color:#fff;
+	background-position: right top;
+	background-repeat: no-repeat;
+}
+
+#title {
+	font-family: 'Englebert', sans-serif;
+  position: relative;
+  width: 400px;
+  border-radius: 50%;
+  -webkit-transform: rotate(-50deg);
+  -moz-transform: rotate(-50deg);
+  -ms-transform: rotate(-50deg);
+  -o-transform: rotate(-50deg);
+  transform: rotate(-50deg);
+}
+
+#content{
+	margin: 13% 0 0 9.5%;
+	position: absolute;
+	text-align: center;
+}
+
+#content p{
+	font-size: 110%;
+	margin: 3.5%;
+}
+
+#navigation{
+	margin: 28% 0 0 3.75%;
+	position: absolute;
+	width: 40%;
+}
+
+h2{
+	position: relative;
+	width: 200px;
+	border-radius: 50%;
+	margin: 0;
+ 
+}
+
+#content h2 {
+	margin-bottom: 9%;
+}
+
+h3{
+	font-size: 125%;
+	text-align: center;
+}
+
+.menulinks img{
+	position: relative;
+	padding-left: 16%;
+	height: 40px;
+	
+}
+
+#title h1 span {
+  font-size: 165%;
+  height: 200px;
+  position: absolute;
+  color: rgb(214, 27, 242);
+  width: 20px;
+  left: 0;
+  top: 0;
+  -webkit-transform-origin: bottom center;
+  -moz-transform-origin: bottom center;
+  -ms-transform-origin: bottom center;
+  -o-transform-origin: bottom center;
+  transform-origin: bottom center;
+}
+
+.menu_link{
+	font-size: 115%;
+}
+
+a:link{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: rgb(214, 27, 242);
+	font-weight: bold;
+}
+
+a:visited{
+	color: #bbb;
+}
+
+.menulinks{
+	position: relative;
+	float: left;
+	margin-left: 10%;
+}
+
+#ref_content{
+	position: absolute;
+	margin-top: 38%;
+	width: 100%;
+}
+
+.header_section{
+	color: rgba(214, 27, 242, 0.5);
+	height: 80px;
+}
+
+.content_div{
+	clear: left;
+	width: 100%;
+	margin-top: 3%;
+	padding-left: 1%;
+}
+
+.content_div h1{
+	font-size: 300%;
+	position: relative;
+	float: left;
+	margin: 1%;
+}
+
+.content_div img {
+	position: relative;
+	float: left;
+	height: 75px;
+}
+
+.content_div p, h4, ul, h5{
+	margin-left: 5%;
+}
+
+.char1 {
+  -webkit-transform: rotate(7deg);
+  -moz-transform: rotate(7deg);
+  -ms-transform: rotate(7deg);
+  -o-transform: rotate(7deg);
+  transform: rotate(7deg);
+}
+
+.char2 {
+  -webkit-transform: rotate(16deg);
+  -moz-transform: rotate(16deg);
+  -ms-transform: rotate(16deg);
+  -o-transform: rotate(16deg);
+  transform: rotate(16deg);
+}
+
+.char3 {
+  -webkit-transform: rotate(24deg);
+  -moz-transform: rotate(24deg);
+  -ms-transform: rotate(24deg);
+  -o-transform: rotate(24deg);
+  transform: rotate(24deg);
+}
+
+.char4 {
+  -webkit-transform: rotate(32deg);
+  -moz-transform: rotate(32deg);
+  -ms-transform: rotate(32deg);
+  -o-transform: rotate(32deg);
+  transform: rotate(32deg);
+}
+
+.char5 {
+  -webkit-transform: rotate(41deg);
+  -moz-transform: rotate(41deg);
+  -ms-transform: rotate(41deg);
+  -o-transform: rotate(41deg);
+  transform: rotate(41deg);
+}
+
+.char6 {
+  -webkit-transform: rotate(52deg);
+  -moz-transform: rotate(52deg);
+  -ms-transform: rotate(52deg);
+  -o-transform: rotate(52deg);
+  transform: rotate(52deg);
+}
+
+.char7 {
+  -webkit-transform: rotate(55deg);
+  -moz-transform: rotate(55deg);
+  -ms-transform: rotate(55deg);
+  -o-transform: rotate(55deg);
+  transform: rotate(55deg);
+}
+
+.char8 {
+  -webkit-transform: rotate(62deg);
+  -moz-transform: rotate(62deg);
+  -ms-transform: rotate(62deg);
+  -o-transform: rotate(62deg);
+  transform: rotate(62deg);
+}
+
+.char9 {
+  -webkit-transform: rotate(65deg);
+  -moz-transform: rotate(65deg);
+  -ms-transform: rotate(65deg);
+  -o-transform: rotate(65deg);
+  transform: rotate(65deg);
+}
+
+.char10 {
+  -webkit-transform: rotate(68deg);
+  -moz-transform: rotate(68deg);
+  -ms-transform: rotate(68deg);
+  -o-transform: rotate(68deg);
+  transform: rotate(68deg);
+}
+
+.char11 {
+  -webkit-transform: rotate(77deg);
+  -moz-transform: rotate(77deg);
+  -ms-transform: rotate(77deg);
+  -o-transform: rotate(77deg);
+  transform: rotate(77deg);
+}
+
+.char12 {
+  -webkit-transform: rotate(86deg);
+  -moz-transform: rotate(86deg);
+  -ms-transform: rotate(86deg);
+  -o-transform: rotate(86deg);
+  transform: rotate(86deg);
+}
+
+.char13 {
+  -webkit-transform: rotate(89deg);
+  -moz-transform: rotate(89deg);
+  -ms-transform: rotate(89deg);
+  -o-transform: rotate(89deg);
+  transform: rotate(89deg);
+}
